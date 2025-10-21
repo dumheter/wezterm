@@ -50,4 +50,9 @@ return {
   font_size = 10.0,
   enable_tab_bar = true,
   hide_tab_bar_if_only_one_tab = true,
+
+  keys = {
+    { key = "UpArrow", mods = "CTRL|SHIFT", action = wezterm.action.ScrollByLine(-3) },
+    { key = "DownArrow", mods = "CTRL|SHIFT", action = wezterm.action.ScrollByLine(3) },
+  },
 }
