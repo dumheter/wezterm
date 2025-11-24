@@ -20,7 +20,7 @@ local solarized_light = {
     "#dc322f", -- red
     "#859900", -- green
     "#b58900", -- yellow
-    "#268bd2", -- blue
+    "#87CFFF", -- blue
     "#d33682", -- magenta
     "#2aa198", -- cyan
     "#9e9885", -- white
